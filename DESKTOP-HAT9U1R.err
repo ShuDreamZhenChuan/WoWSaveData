@@ -1,0 +1,13 @@
+151220 21:38:25 [Note] Plugin 'FEDERATED' is disabled.
+151220 21:38:25 InnoDB: The InnoDB memory heap is disabled
+151220 21:38:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+151220 21:38:25 InnoDB: Compressed tables use zlib 1.2.3
+151220 21:38:25 InnoDB: Initializing buffer pool, size = 563.0M
+151220 21:38:25 InnoDB: Completed initialization of buffer pool
+InnoDB: Error: log file .\ib_logfile0 is of different size 0 50331648 bytes
+InnoDB: than specified in the .cnf file 0 118489088 bytes!
+151220 21:38:25 [ERROR] Plugin 'InnoDB' init function returned error.
+151220 21:38:25 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+151220 21:38:25 [ERROR] Aborting
+
+151220 21:38:25 [Note] 
