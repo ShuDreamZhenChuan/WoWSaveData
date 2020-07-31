@@ -1,0 +1,1072 @@
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 5202016-08-05 22:46:16 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:16 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:16 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:18 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:18 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:19 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:19 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:19 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:19 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:19 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:19 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:19 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:19 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:34 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:34 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."creature_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:34 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:34 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gameobject_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 1aec InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 1aec InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:45 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:45 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:46:46 20e8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:46:46 20e8 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:36 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:36 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:45 1bb4 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:47 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:47 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:47:47 520 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:47:47 520 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:48:08 1050 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:48:08 1050 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-08-05 22:50:08 bc8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:50:08 bc8 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-08-05 22:52:08 bc8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:52:08 bc8 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-08-05 22:53:10 bc8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:53:10 bc8 InnoDB: Recalculation of persistent statistics requested for table "characters"."creature_respawn" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-08-05 22:54:08 bc8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:54:08 bc8 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-08-05 22:54:16 bc8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-08-05 22:54:16 bc8 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_inventory" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:12:54 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:54 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 14502016-10-18 09:12:55 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:55 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:55 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:56 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:56 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:56 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:56 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:56 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:56 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:57 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:57 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:57 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:57 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:57 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:57 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:58 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:58 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:58 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:58 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:58 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:58 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:12:58 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:12:58 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:15 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:15 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."creature_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:15 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:15 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gameobject_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1c40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1c40 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:27 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:27 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1ddc InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1ddc InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."pool_quest_save" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1ff82016-10-18 09:13:29 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1c40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1c40 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:13:29 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:29 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:13:39 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:39 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."item_instance" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:13:49 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:49 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:13:59 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:13:59 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."pool_quest_save" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:14:23 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:23 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:28 6b0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:28 6b0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:28 6b0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:28 6b0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:29 6b0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:29 6b0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:29 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:29 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:14:29 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:29 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."item_instance" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:14:30 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:30 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:30 1450 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:30 1450 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:39 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:39 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."item_instance" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:44 1ff8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2016-10-18 09:14:49 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:14:49 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:16:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:16:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:18:36 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:18:36 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."creature_respawn" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:18:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:18:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:20:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:20:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:21:29 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:21:29 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:22:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:22:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:23:12 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:23:12 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."creature_respawn" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:24:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:24:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:26:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:26:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:28:44 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:28:44 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:29:36 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:29:36 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."creature_respawn" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:30:25 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:30:25 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2016-10-18 09:30:35 1a38 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2016-10-18 09:30:35 1a38 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c2017-01-18 08:41:59 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 1834 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:41:59 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:41:59 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:00 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:00 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:00 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:00 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:02 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:02 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:03 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:03 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:03 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:03 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:03 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:03 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:03 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:03 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:03 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:03 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:04 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:04 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:05 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:05 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:05 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:05 1834 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:05 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:05 1834 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 35c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 35c InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:25 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:25 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:26 c3c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:26 c3c InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:26 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:26 1834 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:26 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:26 1834 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."pool_quest_save" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:26 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:26 142c InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:26 1834 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:26 18342017-01-18 08:42:26 142c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:27 35c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:27 35c InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-01-18 08:42:27 b6c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-01-18 08:42:27 b6c InnoDB: Recalculation of persistent statistics requested for table "characters"."auctionhouse" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d402017-07-07 21:34:17 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:17 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:17 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:19 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:19 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:20 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:20 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:20 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:20 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 1e50 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 1e50 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:29 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:29 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:30 18c4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:30 18c4 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:30 1e50 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:30 1e50 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:34:43 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:34:43 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:35:12 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:35:12 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:36:40 2298 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:36:40 2298 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:36:40 2298 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:36:40 2298 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:36:42 2298 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:36:42 2298 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:36:44 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:36:44 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:36:44 d40 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:36:44 d40 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:37:35 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-07 21:38:00 2778 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:38:00 2778 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-07 21:38:00 2778 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:38:00 2778 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-07 21:38:00 2778 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:38:00 2778 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-07 21:38:10 2778 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:38:10 2778 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-07 21:39:20 1cf0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-07 21:39:20 1cf0 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."creature_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:19 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b82017-07-27 09:30:20 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:20 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:21 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:22 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:22 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:22 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:22 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:22 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:22 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:22 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:22 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 1e7c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 1e7c InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:31 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:32 1e7c InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:32 1e7c InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:32 fd8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:32 fd8 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:30:57 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:30:57 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:31:22 1678 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:31:22 1678 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:31:22 1678 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:31:22 1678 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:31:23 1678 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:31:23 1678 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:31:24 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:31:24 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:31:24 7b8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:31:24 7b8 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:01 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:48 1928 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:48 1928 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-27 09:32:48 1928 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:48 1928 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-07-27 09:32:49 26b4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:49 26b4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."creature_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-07-27 09:32:58 1928 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-07-27 09:32:58 1928 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:43 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:46 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:46 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:46 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:46 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:46 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:46 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:08:46 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:08:46 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 1b34 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 1b34 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:00 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:01 14c8 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:01 14c8 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:01 1b34 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:01 1b34 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:26 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:26 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:43 1f0 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:09:45 ed4 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:09:45 ed4 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:10:13 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:10:13 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:12:14 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:12:14 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:12:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:12:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:13:49 1818 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:13:49 1818 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."creature_respawn" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-08-04 15:14:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:14:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:14:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:14:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:16:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:16:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:16:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:16:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:18:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:18:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:18:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:18:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:20:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:20:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:20:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:20:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:22:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:22:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:22:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:22:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:24:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:24:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:24:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:24:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:26:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:26:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:26:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:26:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:28:13 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:28:13 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:28:23 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:28:23 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:29:06 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:29:06 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:29:06 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:29:06 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 15:29:16 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 15:29:16 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:33:16 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:33:16 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:33:26 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:33:26 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_entry_point" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:33:36 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:33:36 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:34:05 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:34:05 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_skills" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:34:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:34:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:36:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:36:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_reputation" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:36:34 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:36:34 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_reputation" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:38:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:38:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:42:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:42:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:46:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:46:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:50:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:50:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:54:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:54:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 18:58:24 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 18:58:24 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 19:00:25 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 19:00:25 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-08-04 19:00:25 27d0 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-08-04 19:00:25 27d0 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_account_data" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhouse" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:30 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_instance" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_tab" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_rank" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_member_withdraw" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."characters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_right" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_eventlog" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."guild_bank_item" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b742017-11-08 22:54:31 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+ InnoDB: Error: Fetch of persistent statistics requested for table "characters"."arena_team_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."groups" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."group_member" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."lfg_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:31 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."reserved_name" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."worldstates" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_tickets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."gm_surveys" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."addons" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail_items" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:32 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."mail" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:33 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:33 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_events" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:33 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:33 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."calendar_invites" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:33 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:33 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:33 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:33 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_bans" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."warden_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 2c50 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 2c50 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."ip_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."petition_sign" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."item_loot_storage" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."channels_rights" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:38 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."auctionhousebot" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:39 2c50 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:39 2c50 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:39 2128 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:39 2128 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmlist" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:54:48 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:54:48 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:01 820 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:01 820 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_access" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:01 820 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:01 820 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."account_banned" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:02 820 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:02 820 InnoDB: Error: Fetch of persistent statistics requested for table "auth"."realmcharacters" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:02 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:02 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:02 1b74 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:02 1b74 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_tutorial" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_aura" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_daily" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_reputation" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_inventory" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_action" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_social" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_homebind" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_spell_cooldown" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_achievement_progress" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_equipmentsets" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_entry_point" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_glyphs" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_talent" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_account_data" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_skills" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_weekly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_battleground_random" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_rewarded" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."account_instance_times" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_seasonal" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_queststatus_monthly" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:19 2b90 InnoDB: Error: Fetch of persistent statistics requested for table "characters"."character_brew_of_the_month" but the required system tables mysql.innodb_table_stats and mysql.innodb_index_stats are not present or have unexpected structure. Using transient stats instead.
+2017-11-08 22:55:44 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:44 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:55:54 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:55:54 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."account_instance_times" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:56:04 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:56:04 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:57:20 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:57:20 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:57:30 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:57:30 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."character_aura" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:57:40 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:57:40 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."account_instance_times" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
+2017-11-08 22:58:04 2634 InnoDB: Error: Table "mysql"."innodb_table_stats" not found.
+2017-11-08 22:58:04 2634 InnoDB: Recalculation of persistent statistics requested for table "characters"."characters" but the required persistent statistics storage is not present or is corrupted. Using transient stats instead.
